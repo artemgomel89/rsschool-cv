@@ -1,1 +1,1 @@
-https://github.com/artemgomel89/rsschool-cv/cv
+https://artemgomel89.github.io/rsschool-cv/cv
